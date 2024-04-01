@@ -9,3 +9,4 @@
 192.169.80.212  // HCG
 192.169.80.210  // HCG
 62.152.58.28  // One more Day(z)
+144.76.218.6  // Feuerblume-Takistan
