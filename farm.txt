@@ -2,7 +2,12 @@
 184.22.157.92 //my server
 5.188.158.53  // ULTIMATE
 185.207.214.225  // BubenHood
-89.150.136.13  // LastDays - itsjustbaba
 109.248.4.93  // ShizaPVE - evgeny.maloy
 45.125.45.198  // [PZ] Project - Mao
 103.91.209.235  // [DSN] Project - Mao
+136.243.79.51  // LastDays - itsjustbaba
+141.95.35.24  // LastDays - itsjustbaba
+185.207.214.90  // Musa
+195.18.27.88  // Musa
+195.18.27.165  // Musa
+84.39.252.49  // Rossini - Nastya20fps NIKTO
