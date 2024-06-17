@@ -13,4 +13,5 @@
 84.39.252.49  // Rossini - Nastya20fps NIKTO
 185.189.255.183  // DARKZONEPVE - Allucard
 45.138.51.159 // Adamant_MOD - Werwolf_01
-
+195.18.27.70  // MPG - pafnuty
+213.234.252.221 // MPG test
