@@ -11,3 +11,6 @@
 195.18.27.88  // Musa
 195.18.27.165  // Musa
 84.39.252.49  // Rossini - Nastya20fps NIKTO
+185.189.255.183  // DARKZONEPVE - Allucard
+45.138.51.159 // Adamant_MOD - Werwolf_01
+
