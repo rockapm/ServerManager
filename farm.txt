@@ -20,3 +20,4 @@
 109.195.227.214  // mXs
 185.207.214.141  // Isolation - Topotun
 93.123.163.128  // Isolation - Topotun
+90.187.227.89  // Dayz World Survival - Chillya
