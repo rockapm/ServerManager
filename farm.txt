@@ -25,3 +25,4 @@
 45.125.45.86  // cn_nana & Panda (China) 
 45.125.45.227  // cn_nana & Panda (China) 
 110.42.109.146  // cn_nana & Panda (China) 
+45.125.45.86  // Zombieland - Kroll
