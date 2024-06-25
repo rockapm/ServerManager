@@ -21,3 +21,5 @@
 185.207.214.193  // FIGHT FOR LIFE PVP - Karatel
 109.248.4.123  // stalker Heart Of Cherno - sumrak_armor
 212.220.212.86  // GrUral PVE - grural_svd__serega
+185.207.214.51:2302  // NewStory - Kapa
+185.207.214.50:2302  // NewStory - Kapa
