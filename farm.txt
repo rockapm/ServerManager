@@ -35,3 +35,4 @@
 92.38.222.11  // Agonia - gamalar
 212.22.92.25  // Zyggan - zyggano
 185.189.255.191  // [RU]PVE_CCCP - mupzilka
+212.22.93.189  // VinniPuSHkA - JonniBalt
