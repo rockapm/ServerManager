@@ -38,3 +38,4 @@
 185.189.255.191  // [RU]PVE_CCCP - mupzilka
 212.22.93.189  // VinniPuSHkA - JonniBalt
 202.189.8.129  // Juzi_Kr_weapon - wilfred0054 (Chinese)
+51.210.222.155  // CustomPackREC - lej93 & Maytika
