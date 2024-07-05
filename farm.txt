@@ -58,3 +58,4 @@
 194.147.90.39
 //
 185.189.255.45  // AREADA PVE - babay_aga
+98.142.246.133  // Havoc Zero HZDZ - hycron
