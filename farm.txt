@@ -59,3 +59,4 @@
 //
 185.189.255.45  // AREADA PVE - babay_aga
 98.142.246.133  // Havoc Zero HZDZ - hycron
+202.189.15.3  // phantom phoenix song - greentherabbit (Chinese)
