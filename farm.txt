@@ -12,6 +12,7 @@
 195.18.27.165  // Musa
 84.39.252.49  // Rossini - Nastya20fps NIKTO
 88.151.117.180  // Rossini - Nastya20fps NIKTO
+195.188.27.211  // Rossini - Nastya20fps NIKTO
 185.189.255.183  // DARKZONEPVE - Allucard
 45.138.51.159  // Adamant_MOD - Werwolf_01
 195.18.27.70  // MPG - pafnuty
