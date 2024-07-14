@@ -6,3 +6,5 @@
 78.24.181.66 - molchan
 45.125.45.198  // [PZ] Project - Mao
 103.91.209.235  // [DSN] Project - Mao
+185.207.214.156 - .elektromayonez.
+195.18.27.236 - .elektromayonez.
