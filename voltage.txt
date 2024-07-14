@@ -10,3 +10,5 @@
 185.207.214.156 - .elektromayonez.
 195.18.27.236 - .elektromayonez.
 43.249.195.181 - blackmetasequoia
+185.207.214.68 - globzivova
+185.189.255.111 - globzivova
