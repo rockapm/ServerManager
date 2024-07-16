@@ -28,7 +28,7 @@
 45.125.45.227  // cn_nana & Panda (China) 
 110.42.109.146  // cn_nana & Panda (China) 
 109.248.4.34  // Zombieland - Kroll
-5.35.7.229  // The Last Frontier - basota
+185.207.214.39  // The Last Frontier - basota
 138.201.37.84  // RedLine - dusty29
 46.174.55.17  // IMPERIAL PVE - pitbull4182
 109.248.4.73  // Agonia - gamalar
