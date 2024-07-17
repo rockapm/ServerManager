@@ -24,3 +24,4 @@
 212.220.212.86  // GrUral PVE - grural_svd__serega
 185.207.214.51:2302  // NewStory - Kapa
 185.207.214.50:2302  // NewStory - Kapa
+89.208.227.51 // HellGateRP - hellfaddyhgw
