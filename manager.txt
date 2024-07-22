@@ -26,3 +26,4 @@
 185.207.214.51:2302  // NewStory - Kapa
 185.207.214.50:2302  // NewStory - Kapa
 89.208.227.51 // HellGateRP - hellfaddyhgw
+109.248.4.59  // GROM_PVP - _extrimal
