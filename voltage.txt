@@ -10,8 +10,6 @@
 185.207.214.156 - .elektromayonez.
 195.18.27.236 - .elektromayonez.
 43.249.195.181 - blackmetasequoia
-185.207.214.68 - globzivova
-185.189.255.111 - globzivova
 109.248.250.188 - lbonaventura
 195.18.27.113 - thewhisperdayz
 185.207.214.163
@@ -23,6 +21,7 @@
 195.18.27.235 - fartovyj
 89.208.227.51 - hellfaddyhgw
 195.18.27.198 - globzivova
+195.18.27.98 - globzivova
 90.187.227.89 - _chillya
 195.18.27.52 - 1capone
 71.27.252.186 - citizen_moth
