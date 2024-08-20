@@ -7,3 +7,5 @@
 212.22.93.189 - jonnibalt
 212.22.93.40 - jonnibalt
 185.207.214.168 - .sedoy 
+185.133.40.100 - vorin_pavel
+77.34.147.164 - vorin_pavel
