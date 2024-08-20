@@ -40,6 +40,7 @@
 212.22.92.25  // Zyggan - zyggano
 185.189.255.191  // [RU]PVE_CCCP - mupzilka
 212.22.93.189  // VinniPuSHkA - JonniBalt
+212.22.93.40 - jonnibalt
 202.189.8.129  // Juzi_Kr_weapon - wilfred0054 (Chinese)
 51.210.222.155  // CustomPackREC - lej93 & Maytika
 185.207.214.39  // PioneerModPack - danila_stalker_dzhedaj
