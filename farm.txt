@@ -72,3 +72,4 @@
 185.207.214.168 - sedoy
 195.18.27.186 - sedoy test
 176.9.77.245 - dayzetero93
+45.59.162.9 - LeanSalmon
