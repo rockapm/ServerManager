@@ -39,7 +39,7 @@
 195.18.27.44 - player4060
 195.18.27.178 - player4060
 212.22.93.189 - jonnibalt
-212.22.93.40 - jonnibalt
+212.22.93.198 - jonnibalt
 212.22.93.34 - sharm_charm
 176.9.77.245 - dayzetero93
 37.230.228.89 - mr_obarg
@@ -71,3 +71,4 @@
 185.207.214.41 - smok_evgeniy
 185.189.255.40 - medvejonok
 185.207.214.171 - medvejonok
+136.243.106.113 - spartansfight
