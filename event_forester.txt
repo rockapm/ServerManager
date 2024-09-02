@@ -5,7 +5,7 @@
 185.189.255.90 - fartovyj
 195.18.27.235 - fartovyj
 212.22.93.189 - jonnibalt
-212.22.93.40 - jonnibalt
+212.22.93.198 - jonnibalt
 185.207.214.168 - .sedoy 
 185.133.40.100 - vorin_pavel
 77.34.147.164 - vorin_pavel
