@@ -32,3 +32,5 @@
 185.207.214.155 - killakisa
 195.18.27.44 - player4060
 195.18.27.178 - player4060
+185.207.214.156 - .elektromayonez.
+195.18.27.236 - .elektromayonez.
