@@ -19,7 +19,9 @@
 185.207.214.133 - temnyu
 185.189.255.90 - fartovyj
 195.18.27.235 - fartovyj
-89.208.227.51 - hellfaddyhgw
+89.208.227.51 - hellfaddyhgw old
+212.192.50.172 - hellfaddyhgw
+212.192.50.185 - hellfaddyhgw
 195.18.27.198 - globzivova
 195.18.27.98 - globzivova
 195.18.27.35 - globzivova
