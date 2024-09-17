@@ -4,7 +4,7 @@
 185.207.214.225  // BubenHood
 185.189.255.44  // ShizaPVE - evgeny.maloy
 45.125.45.198  // [PZ] Project - Mao
-103.91.209.235  // [DSN] Project - Mao
+5.182.5.26  // [DSN] Project - Mao
 61.147.247.80  // - Mao
 136.243.79.51  // LastDays - itsjustbaba
 141.95.35.24  // LastDays - itsjustbaba
