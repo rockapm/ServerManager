@@ -7,3 +7,5 @@
 46.174.52.227 - fenix.dzsa
 78.37.108.224 - fenix.dzsa
 95.66.162.3 - ham4iiiika
+65.109.113.121 - faraday_z
+192.168.0.218 - faraday_z
