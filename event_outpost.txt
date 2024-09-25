@@ -38,5 +38,6 @@
 109.248.4.54 - nookie79
 109.248.4.98 - nookie79
 192.168.0.218 - Faradayz TEST
+5.18.204.215 - Faradayz TEST
 185.189.255.76 - provokator7000
 185.207.214.42 - pirotexnik
