@@ -41,3 +41,5 @@
 5.18.204.215 - Faradayz TEST
 185.189.255.76 - provokator7000
 185.207.214.42 - pirotexnik
+212.22.93.198 - jonnibalt
+212.22.93.189 - jonnibalt
