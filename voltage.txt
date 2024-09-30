@@ -97,3 +97,8 @@
 202.189.8.160 - marsha1_00 CHINA
 64.20.36.154 - mcbrutal
 185.207.214.129 - deadstaff
+195.18.27.121 - goffreddly
+185.207.214.200 - goffreddly
+195.18.27.253 - goffreddly
+195.18.27.122 - goffreddly
+185.189.255.184 - goffreddly
