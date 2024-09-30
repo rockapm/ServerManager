@@ -46,3 +46,8 @@
 5.252.101.97 - wwwwwdope
 192.168.1.128 - wwwwwdope
 109.195.21.185 - stil19247
+195.18.27.121 - goffreddly
+185.207.214.200 - goffreddly
+195.18.27.253 - goffreddly
+195.18.27.122 - goffreddly
+185.189.255.184 - goffreddly
