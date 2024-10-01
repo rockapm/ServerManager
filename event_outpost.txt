@@ -51,3 +51,5 @@
 195.18.27.253 - goffreddly
 195.18.27.122 - goffreddly
 185.189.255.184 - goffreddly
+95.174.101.25 - sikorski_garik
+95.174.101.10 - sikorski_garik
