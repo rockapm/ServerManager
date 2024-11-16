@@ -6,6 +6,7 @@
 45.125.45.198  // [PZ] Project - Mao
 5.182.5.26  // [DSN] Project - Mao
 61.147.247.80  // - Mao
+5.35.3.133         // [DSN] Project - Mao
 136.243.79.51  // LastDays - itsjustbaba
 141.95.35.24  // LastDays - itsjustbaba
 185.207.214.90  // Musa
