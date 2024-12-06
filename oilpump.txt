@@ -4,3 +4,5 @@
 185.207.214.225  // BubenHood
 185.207.214.155 - killakisa
 185.207.214.252 - killakisa
+185.189.255.209 - alekszaek
+185.207.214.205  - alekszaek
