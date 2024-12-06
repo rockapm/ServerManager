@@ -70,7 +70,7 @@
 98.142.246.133  // Havoc Zero HZDZ - hycron
 202.189.15.3  // phantom phoenix song - greentherabbit (Chinese)
 212.220.212.86  // GrUral PVE - grural_svd__serega
-109.248.4.16  // FiveCorners[PVE] - lbonaventura
+212.22.93.84  // FiveCorners[PVE] - lbonaventura
 195.18.27.198 - globzivova
 195.18.27.98 - globzivova
 195.18.27.35 - globzivova
