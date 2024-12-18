@@ -19,6 +19,7 @@
 212.22.93.84 - lbonaventura
 185.189.255.166 - bartholomewlaw
 195.18.27.180 - bartholomewlaw
+185.207.214.242 - bartholomewlaw
 31.131.251.66 - .fordik
 89.22.175.13 - .fordik
 185.189.255.15 - mxskent
