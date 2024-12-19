@@ -23,4 +23,5 @@
 212.22.93.76 - aero0001
 192.168.1.214 - barralynx
 185.189.255.24 - maks_77rus
-91.204.150.192 - maks_77rus (local static)
+90.188.92.202 - maks_77rus
+85.143.144.56 - maks_77rus (test)
