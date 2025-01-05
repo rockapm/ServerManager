@@ -46,7 +46,6 @@
 195.18.27.178 - player4060
 212.22.93.189 - jonnibalt
 212.22.93.198 - jonnibalt
-212.22.93.34 - sharm_charm
 176.9.77.245 - dayzetero93
 57.128.187.252 - dayzetero93
 37.230.228.89 - mr_obarg
