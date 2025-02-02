@@ -73,6 +73,7 @@
 202.189.15.3  // phantom phoenix song - greentherabbit (Chinese)
 212.220.212.86  // GrUral PVE - grural_svd__serega
 212.22.93.84  // FiveCorners[PVE] - lbonaventura
+185.207.214.226 - lbonaventura
 195.18.27.198 - globzivova
 195.18.27.98 - globzivova
 195.18.27.35 - globzivova
