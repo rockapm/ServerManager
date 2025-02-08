@@ -21,7 +21,7 @@
 192.168.1.214 - barralynx
 45.125.45.198  // [PZ] Project - Mao
 5.182.5.26  // [DSN] Project - Mao
-95.66.162.3 - ham4iiiika (камар)
+185.189.255.203 - ham4iiiika (камар)
 195.18.27.86 - aleksiej777
 195.18.27.121 - goffreddly
 185.207.214.200 - goffreddly
