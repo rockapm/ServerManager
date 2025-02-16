@@ -36,6 +36,7 @@
 202.189.8.160 - marsha1_00 CHINA
 193.25.252.66 - marsha1_00 CHINA
 212.22.93.59 - typer_ruslan
+195.18.27.60 - typer_ruslan
 172.111.51.137 - dirkalot
 109.248.4.34 - baligulia
 109.248.4.19 - baligulia
