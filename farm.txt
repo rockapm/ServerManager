@@ -86,7 +86,7 @@
 185.207.214.182 - .svoj
 185.207.214.239 - .svoj
 195.18.27.86 - aleksiej777
-192.168.1.214 - barralynx
+192.168.1.68 - barralynx
 195.18.27.121 - goffreddly
 185.207.214.200 - goffreddly
 195.18.27.253 - goffreddly
