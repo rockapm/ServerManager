@@ -109,7 +109,7 @@
 5.42.211.20 - auf_auf
 185.207.214.52 - mirzapulatov
 91.103.110.238 - mirzapulatov
-192.168.1.68 - barralynx
+86.151.86.105 - barralynx
 194.147.90.77 - revad
 185.207.214.193 - _karatel_one
 95.156.230.212 - octorn
