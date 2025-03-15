@@ -77,6 +77,7 @@
 92.38.222.38 - tapochki2479 test
 109.248.4.131 - tapochki2479
 109.252.63.147 - tapochki2479 (test)
+157.180.8.156 - tapochki2479 new
 195.18.27.189 - sakura_
 185.207.214.141 - topotun
 185.207.214.38 - topotun
