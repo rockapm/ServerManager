@@ -42,6 +42,7 @@
 109.248.4.48  - gamalar
 109.248.4.83  - gamalar
 109.248.4.132 - gamalar
+109.248.4.13 - gamalar
 212.22.92.25  // Zyggan - zyggano
 185.189.255.191  // [RU]PVE_CCCP - mupzilka
 212.22.93.189  // VinniPuSHkA - JonniBalt
