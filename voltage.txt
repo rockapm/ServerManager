@@ -233,6 +233,7 @@
 103.193.80.150 - aussiekenny
 103.193.80.149 - aussiekenny
 109.248.4.11 - madmanmaxim
+95.79.50.156 - madmanmaxim
 185.207.214.74 - polkilo102
 176.9.17.190 - polkilo102
 185.207.214.57 - polkilo102
