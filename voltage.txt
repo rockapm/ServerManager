@@ -75,6 +75,7 @@
 185.189.255.166 - bartholomewlaw
 195.18.27.180 - bartholomewlaw
 185.207.214.242 - bartholomewlaw
+80.242.59.98 - bartholomewlaw
 92.38.222.31 - tapochki2479
 195.18.27.210 - tapochki2479
 92.38.222.38 - tapochki2479 test
