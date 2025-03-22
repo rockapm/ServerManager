@@ -24,6 +24,7 @@
 109.195.227.214  // mXs
 185.207.214.141  // Isolation - Topotun
 93.123.163.128  // Isolation - Topotun
+185.207.214.38 - topotun
 90.187.227.89  // Dayz World Survival - Chillya
 45.125.45.88  // cn_nana & Panda (China) 
 45.125.45.86  // cn_nana & Panda (China) 
