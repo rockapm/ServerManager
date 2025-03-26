@@ -72,7 +72,8 @@
 185.189.255.127 - lavr1k1337
 185.189.255.209  - alekszaek
 185.207.214.205  - alekszaek
-5.35.3.133         // [DSN] Project - Mao
+5.35.3.133 - wuyaomao
+119.188.247.201 - wuyaomao
 80.242.59.122 - ka9rus
 194.147.90.37 - ricksamoilov
 89.109.20.228 - ricksamoilov
