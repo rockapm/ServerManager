@@ -8,6 +8,7 @@
 5.182.5.26  // [DSN] Project - Mao
 119.250.150.202 // - Mao
 5.35.3.133         // [DSN] Project - Mao
+119.188.247.201 - wuyaomao
 185.207.214.156 - .elektromayonez.
 195.18.27.236 - .elektromayonez.
 43.249.195.181 - blackmetasequoia
