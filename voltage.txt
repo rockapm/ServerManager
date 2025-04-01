@@ -106,7 +106,7 @@
 82.208.17.115 - lamacore
 82.208.17.104 - lamacore
 51.38.84.107 - rapiozooooooo
-192.168.1.214 - barralynx
+81.155.217.30 - barralynx
 185.189.255.113 - demmonik
 185.189.255.94 - demmonik
 109.248.4.34 - baligulia
