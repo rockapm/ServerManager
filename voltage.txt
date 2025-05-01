@@ -295,3 +295,5 @@
 37.230.228.30 - lieutenant_
 144.76.4.17 - lieutenant_
 79.137.98.87 - khaotic.lifez
+62.183.115.59 - rishat
+185.189.255.140 - rishat
