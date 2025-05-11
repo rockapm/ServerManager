@@ -71,3 +71,5 @@
 185.207.214.193 - _karatel_one
 195.18.27.117 - mrgreenfox_9412
 185.189.255.68 - game_master_4
+92.38.222.30 - nastena_admin
+109.195.75.210 - nastena_admin
