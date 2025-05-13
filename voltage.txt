@@ -290,6 +290,8 @@
 54.37.206.246 - freddie_mgz
 51.195.8.3 - freddie_mgz
 88.202.151.21 - freddie_mgz
+51.195.63.187 - freddie_mgz
+51.89.65.78 - freddie_mgz
 88.99.164.150 - endergoth_tata
 46.174.50.243 - lieutenant_
 37.230.228.30 - lieutenant_
