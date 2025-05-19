@@ -34,6 +34,7 @@
 109.248.4.34  // Zombieland - Kroll old
 195.18.27.127  // Zombieland - Kroll
 185.207.214.39  // The Last Frontier - basota
+87.76.4.217 - basota
 138.201.37.84  // RedLine - dusty29
 5.9.209.22 - dusty29
 46.174.55.17  // IMPERIAL PVE - pitbull4182
