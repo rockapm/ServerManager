@@ -20,7 +20,7 @@
 109.195.227.214 - mxskent
 185.189.255.15 - mxskent
 185.207.214.91 - kasper52_
-81.155.217.30 - barralynx
+86.172.106.93 - barralynx
 45.125.45.198  // [PZ] Project - Mao
 5.182.5.26  // [DSN] Project - Mao
 185.189.255.203 - ham4iiiika (камар)
