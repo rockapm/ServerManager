@@ -173,6 +173,7 @@
 185.207.214.205  - alekszaek
 195.18.27.88 - kakaykrasivo
 195.18.27.240  - kakaykrasivo
+80.242.59.81 - kakaykrasivo
 172.111.51.138 - nv991
 65.109.113.121 - faraday_z
 188.134.93.219 - faraday_z
