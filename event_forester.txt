@@ -56,6 +56,7 @@
 192.168.0.218 - faraday_z
 188.134.93.219 - faraday_z
 5.18.204.215 - Faradayz TEST
+185.207.214.57 - faraday_z
 193.25.252.75 - .cymrak.
 109.248.4.59 - aleksandr4787
 212.22.93.17 - laskolnik.
