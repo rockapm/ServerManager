@@ -145,6 +145,7 @@
 49.12.168.88 - karlita21
 188.134.93.219 - faraday_z
 65.109.113.121 - faraday_z
+185.207.214.57 - faraday_z
 185.189.255.65 - whobbmm
 86.151.86.105 - barralynx
 212.22.93.131 - rz_combat
