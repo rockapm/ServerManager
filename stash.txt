@@ -98,3 +98,8 @@
 5.144.97.233 - old4109
 109.248.4.123 - sumrak_armor
 93.99.7.93 - silver3536
+195.18.27.121 - goffreddly
+185.207.214.200 - goffreddly
+195.18.27.253 - goffreddly
+195.18.27.122 - goffreddly
+195.18.27.16 - goffreddly
