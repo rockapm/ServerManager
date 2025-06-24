@@ -131,3 +131,6 @@
 161.129.70.202 - doc_dayz
 92.53.64.115 - bear13th
 188.243.28.30 - bear13th
+194.147.90.37 - ricksamoilov
+195.122.225.17 - ricksamoilov
+80.242.59.116 - ricksamoilov
