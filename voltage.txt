@@ -194,7 +194,7 @@
 65.130.183.40 - stryka2022
 109.123.108.97 - stryka2022
 194.147.90.37 - ricksamoilov
-89.109.20.228 - ricksamoilov
+195.122.225.17 - ricksamoilov
 80.242.59.116 - ricksamoilov
 195.60.166.234 - joby_.
 64.40.9.90 - joby_.
