@@ -61,3 +61,4 @@
 192.162.232.16 - vlad_zhurylo
 193.34.77.41 - antagonist.ua
 78.46.85.86 - antagonist.ua
+109.248.4.11 - madmanmaxim
