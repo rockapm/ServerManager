@@ -67,3 +67,11 @@
 109.248.4.72 - provokator7000
 185.189.255.99 - artiksm
 185.189.255.129 - artiksm
+109.248.4.73 - gamalar
+109.248.4.118 - gamalar
+109.248.4.109 - gamalar
+109.248.4.132 - gamalar
+109.248.4.13 - gamalar
+109.248.4.48 - gamalar
+109.248.4.83 - gamalar
+92.38.222.11 - gamalar
