@@ -11,7 +11,7 @@
 109.248.4.37 - nikolai_venessis
 109.248.4.116 - nikolai_venessis
 185.244.41.68 - polkovnik96
-212.12.17.41 - polkovnik96
+212.220.110.191 - polkovnik96
 195.18.27.61 - orng_
 195.18.27.56 - orng_
 195.18.27.227 - orng_
