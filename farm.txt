@@ -101,6 +101,7 @@
 195.18.27.122 - goffreddly
 185.189.255.184 - goffreddly
 195.18.27.16 - goffreddly
+80.242.59.197 - goffreddly
 195.18.27.44 - player4060
 195.18.27.178 - player4060
 185.189.255.194 - ragnar_4444
