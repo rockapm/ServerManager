@@ -38,8 +38,8 @@
 141.95.3.139 - volodymyr2048
 109.248.4.80 - nemec0152
 193.135.10.94 - Traik82
-116.202.193.217 - basota
 87.76.4.217 - basota
+5.178.87.92 - basota
 185.207.214.45 - vargfallenalliance
 40.160.19.216 - altuwaijri_81
 212.22.93.120 - xspirit
