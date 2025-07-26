@@ -33,8 +33,8 @@
 110.42.109.146  // cn_nana & Panda (China) 
 109.248.4.34  // Zombieland - Kroll old
 195.18.27.127  // Zombieland - Kroll
-185.207.214.39  // The Last Frontier - basota
 87.76.4.217 - basota
+5.178.87.92 - basota
 138.201.37.84  // RedLine - dusty29
 5.9.209.22 - dusty29
 193.25.252.44 - samprox01/dusty29
