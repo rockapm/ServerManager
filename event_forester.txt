@@ -31,6 +31,7 @@
 195.18.27.122 - goffreddly
 185.189.255.184 - goffreddly
 195.18.27.16 - goffreddly
+80.242.59.197 - goffreddly
 95.165.5.147 - kuzick
 195.18.27.99 - .tm0357
 91.225.160.205 - .tm0357 test
