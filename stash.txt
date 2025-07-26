@@ -69,8 +69,8 @@
 88.99.164.150 - endergoth_tata
 78.36.196.127 - bodrij
 195.18.27.80 - samurai_x.x.x
-116.202.193.217 - basota
 87.76.4.217 - basota
+5.178.87.92 - basota
 185.207.214.94 - prigay_kiska
 95.156.230.28 - c4r1zp
 185.207.214.193 - _karatel_one
