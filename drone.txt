@@ -9,3 +9,5 @@
 74.50.75.133 - doc_dayz
 103.193.80.48 - rekdum
 5.196.82.214 - devcyberteck
+80.242.59.118 - bpedhblu_kote
+80.242.59.127 - bpedhblu_kote
