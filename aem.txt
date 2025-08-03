@@ -157,7 +157,7 @@
 168.100.160.182 - joby_.
 193.25.252.41 - cjoubert
 185.189.255.68 - game_master_4
-88.14.8.24 - dayzetero93
+88.13.59.6 - dayzetero93
 181.85.93.163 - chawitaa
 90.154.61.2 - kasper52_
 109.248.4.38 - sinoptik_1
