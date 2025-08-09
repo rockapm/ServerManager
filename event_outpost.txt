@@ -142,7 +142,7 @@
 195.18.27.88 - kakaykrasivo
 195.18.27.240 - kakaykrasivo
 80.242.59.81 - kakaykrasivo
-80.242.59.122 - ka9rus
+185.135.81.17 - ka9rus
 212.22.93.159 - serega_kothapkot
 92.38.222.124 - loukroz
 192.168.0.102 - loukroz
