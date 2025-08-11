@@ -2,6 +2,7 @@
 184.22.189.15 //my server
 5.188.158.53  // ULTIMATE
 185.207.214.225  // BubenHood
+5.42.211.95 - bubenhood
 195.18.27.121 - goffreddly
 185.207.214.200 - goffreddly
 195.18.27.253 - goffreddly
