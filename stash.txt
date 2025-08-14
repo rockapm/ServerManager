@@ -83,7 +83,7 @@
 109.248.4.84 - madstorm.
 185.189.255.40 - medvejonok
 185.207.214.171 - medvejonok
-212.22.93.99 - andreinikolaevich2873
+212.22.93.88 - andreinikolaevich2873
 212.22.93.197 - andreinikolaevich2873
 80.68.11.54 - andreinikolaevich2873
 212.22.93.201 - mepoy
