@@ -93,7 +93,7 @@
 195.18.27.119 - stanley_winston
 109.194.42.69 - stanley_winston
 5.77.0.240 - stan test
-90.154.61.2 - kasper52_
+185.207.214.209 - kasper52_
 185.207.214.41 - smok_evgeniy
 185.189.255.40 - medvejonok
 185.207.214.171 - medvejonok
