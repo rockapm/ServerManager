@@ -101,3 +101,5 @@
 89.127.164.246 - adm01founder
 189.127.165.9 - adm01founder
 80.242.59.128 - alexzaplava
+195.18.27.249 - drugoy
+185.207.214.101 - drugoy
