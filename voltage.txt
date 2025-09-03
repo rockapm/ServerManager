@@ -261,8 +261,8 @@
 15.204.141.56 - lizardfoo
 86.151.86.105 - barralynx
 87.98.150.230 - ob4n4i
-51.79.162.193 - kennethnx
-139.99.23.216 - kennethnx
+45.124.213.20 - kennethnx
+45.124.213.21 - kennethnx
 185.180.2.92 - naclait
 185.38.150.52 - jungleman153
 74.133.228.41 - fya_
