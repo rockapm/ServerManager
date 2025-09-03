@@ -25,3 +25,5 @@
 185.207.214.193 - _karatel_one
 195.18.27.44 - player4060
 185.189.255.146 - evgenii4811
+64.31.28.194 - the_loginator
+64.31.28.162 - the_loginator
