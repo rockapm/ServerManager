@@ -131,8 +131,7 @@
 90.188.92.202 - Maks77_rus
 194.147.90.170 - c0ccyx
 80.242.59.107 - oberest
-104.234.7.12 - chawitaa
-38.225.91.61 - chawitaa
+38.225.91.40 - chawitaa
 88.99.2.42 - vlad_zhurylo
 192.162.232.16 - vlad_zhurylo
 178.63.51.115 - vlad_zhurylo
