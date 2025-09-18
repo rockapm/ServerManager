@@ -122,6 +122,7 @@
 88.202.151.21 - freddie_mgz
 51.195.63.187 - freddie_mgz
 51.89.65.78 - freddie_mgz
+141.95.34.126 - freddie_mgz
 136.243.70.123 - rdjeday
 195.18.27.67 - nikolay10rus
 154.16.200.243 - speeby2526
