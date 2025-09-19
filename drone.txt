@@ -38,7 +38,6 @@
 212.22.93.84 - lbonaventura
 185.207.214.226 - lbonaventura
 37.230.137.252 - mevych322
-92.38.222.39 - lexa_fin
 212.12.19.211 - ahrenli
 64.31.28.194 - the_loginator
 64.31.28.162 - the_loginator
@@ -46,3 +45,4 @@
 185.207.214.8 - kazantipos
 88.151.117.173 - kazantipos
 95.165.71.165 - .sedoy
+92.38.222.22 - lexa_fin
