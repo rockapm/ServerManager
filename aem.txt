@@ -222,3 +222,9 @@
 109.194.42.69 - stanley_winston
 109.126.23.211 - delovoy25
 109.248.4.50 - dmitrii_kasyanov
+185.189.255.184 - pogranichnik_max
+195.18.27.228 - pogranichnik_max
+92.38.222.39 - pogranichnik_max
+92.38.222.22 - pogranichnik_max
+109.248.4.12 - pogranichnik_max
+194.38.2.144 - pogranichnik_max
