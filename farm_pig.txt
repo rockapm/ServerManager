@@ -63,8 +63,7 @@
 88.99.2.42 - vlad_zhurylo
 192.162.232.16 - vlad_zhurylo
 178.63.51.115 - vlad_zhurylo
-193.34.77.41 - antagonist.ua
-78.46.85.86 - antagonist.ua
+51.195.97.169 - antagonist.ua
 109.248.4.11 - madmanmaxim
 95.79.50.156 - madmanmaxim
 185.207.214.46 - spartan879
