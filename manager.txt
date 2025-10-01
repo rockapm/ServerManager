@@ -19,6 +19,7 @@
 77.37.208.160  // One more Day(z) TEST
 144.76.218.6  // Feuerblume-Takistan
 178.63.81.235  // STALKER_Death_Story_RP, Falcon
+88.99.193.18 - falcon______
 185.189.255.200  // KOD
 212.22.93.59  // GRAD
 109.248.4.18  // GRAD
