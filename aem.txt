@@ -167,12 +167,12 @@
 181.85.93.163 - chawitaa
 185.207.214.162 - kasper52_
 109.248.4.38 - sinoptik_1
-212.22.93.99 - lestor_roe
+212X22.93.99 - lestor_roe
 24.101.78.173 - fya_
 80.242.59.111 - vladimir4159
 5.53.18.34 - fizzordgame
-212.22.93.88 - lestor_roe
-212.22.92.2 - lestor_roe
+212X22.93.88 - lestor_roe
+212X22.92.2 - lestor_roe
 185.207.214.222 - hukuma78
 212.220.110.191 - polkovnik96
 173.225.104.218 - delusional_mind
