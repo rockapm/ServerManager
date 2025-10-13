@@ -139,7 +139,7 @@
 109.248.4.131 - fredi106
 185.189.255.44 - evgeny.maloy
 84.200.16.70 - odessavictor
-5.53.18.34 - fizzordgame
+80.242.59.102 - fizzordgame
 85.172.101.203 - freddycruge1
 109.248.4.88 - freddycruge1
 185.207.214.83 - iman_edition
