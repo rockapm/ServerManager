@@ -209,7 +209,7 @@
 168.119.79.178 - xmako87x
 168.119.79.144 - xmako87x
 85.237.36.201 - exceltwofive
-212.22.93.147 - madeinseberia
+109.248.4.240 - madeinseberia
 80.242.59.119 - zhurnalist
 195.18.27.184 - vkantik
 195.18.27.87 - ramsanov
@@ -256,3 +256,4 @@
 195.18.27.54 - hawkgenf
 88.151.184.142 - r3dl1n3
 78.30.229.132 - r3dl1n3
+92.38.222.12 - sashaluger
