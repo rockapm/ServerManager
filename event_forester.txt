@@ -10,9 +10,8 @@
 212.22.93.198 - jonnibalt
 185.207.214.168 - .sedoy 
 95.165.71.165 - .sedoy
-185.133.40.100 - vorin_pavel
+37.18.21.213 - vorin_pavel
 77.34.147.164 - vorin_pavel
-65.109.113.121 - vorin_pavel
 193.164.16.85 - nikolay1010
 185.207.214.80 - nikolay1010
 77.51.184.203 - vovan_black
