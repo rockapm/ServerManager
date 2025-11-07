@@ -130,6 +130,7 @@
 185.189.255.184 - goffreddly
 195.18.27.16 - goffreddly
 80.242.59.197 - goffreddly
+195.18.27.30 - goffreddly
 193.25.252.75 - .cymrak.
 195.18.27.239 - .chaikin
 185.207.214.70 - .chaikin
