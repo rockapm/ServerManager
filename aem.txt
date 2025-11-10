@@ -88,7 +88,7 @@
 77.34.77.69 - ghost.vl
 91.203.179.157 - sarmat3556
 185.207.214.162 - sarmat3556
-92.53.90.162  - na_pol_rublya
+195.18.27.115  - na_pol_rublya
 185.207.214.142 - delovoy25
 109.126.23.211 - delovoy25
 185.207.214.188 - mentos_sasaki, 1capone
