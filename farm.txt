@@ -210,7 +210,7 @@
 87.251.99.12 - sabrinka_games
 79.139.191.180 - sabrinka_games
 212.22.93.12 - molchan
-212.22.93.97 - neostalkerneo
+109.248.4.131 - neostalkerneo
 109.248.4.70 - .aleksandrburkov
 185.207.214.35 - co8mods
 31.129.64.166 - cywka
