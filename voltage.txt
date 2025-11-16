@@ -412,7 +412,7 @@
 195.18.27.249 - drugoy
 185.207.214.101 - drugoy
 212.22.93.156 - anarchy_voron
-26.28.56.216 - anarchy_voron
+37.156.35.5 - anarchy_voron
 195.60.167.42 - fluffybrick
 185.189.255.65 - sam633
 80.242.59.105 - sam633
