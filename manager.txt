@@ -71,7 +71,4 @@
 154.84.63.69 - niccl
 136.175.187.133 - kleptoterren
 195.18.27.87 - ramsanov
-212X22.93.88 - lestor_roe
-212X22.92.2 - lestor_roe
-212.22.93.27 - lestor_roe
 195.18.27.74 - ns_modd
