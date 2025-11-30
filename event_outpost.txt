@@ -167,8 +167,7 @@
 195.122.225.17 - ricksamoilov
 80.242.59.116 - ricksamoilov
 185.207.214.149 - xygin
-172.111.51.85 - .slaughterprincess
-172.111.51.182 - .slaughterprincess
+64.31.28.173 - .slaughterprincess
 185.189.255.194 - ragnar_4444
 202.189.15.3 - greentherabbit   CH
 109.248.4.29 - patron8270
