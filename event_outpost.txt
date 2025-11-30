@@ -303,3 +303,4 @@
 185.207.214.126 - shinra_idk
 90.151.84.21 - plotnik0v
 5.42.211.14 - plotnik0v
+104.243.41.181 - weyland.exe
