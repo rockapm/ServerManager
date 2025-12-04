@@ -138,7 +138,7 @@
 109.248.4.37 - nikolai_venessis
 109.248.4.116 - nikolai_venessis
 185.189.255.24 - maks_77rus
-90.188.92.202 - maks_77rus
+90.188.95.184 - maks_77rus
 85.143.144.56 - maks_77rus (test)
 195.18.27.70 - pafnuty10
 195.18.27.20 - pafnuty10
