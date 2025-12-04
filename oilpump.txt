@@ -29,7 +29,7 @@
 109.248.4.113 - aero0001
 193.203.238.33 - barralynx
 185.189.255.24 - maks_77rus
-90.188.92.202 - maks_77rus
+90.188.95.184 - maks_77rus
 85.143.144.56 - maks_77rus (test)
 46.174.50.243 - lieutenant_
 37.230.228.30 - lieutenant_
