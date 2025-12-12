@@ -156,7 +156,7 @@
 80.242.59.118 - bpedhblu_kote
 80.242.59.127 - bpedhblu_kote
 95.156.230.234 - onserwin
-77.250.227.49 - onserwin
+82.75.80.219 - onserwin
 212.22.93.201 - mepoy
 194.147.90.180 - mutnyi.
 81.23.154.255 - _novichok2000
