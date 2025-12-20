@@ -53,7 +53,8 @@
 195.18.27.178 - player4060
 212.22.93.189 - jonnibalt
 212.22.93.198 - jonnibalt
-185.216.144.66 - dayzetero93
+185x216.144.66 - dayzetero93
+5.39.68.184 - dayzetero93
 37.230.228.89 - mr_obarg
 212.22.93.121 - mr_obarg
 185.189.255.22 - kozir.
