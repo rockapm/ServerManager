@@ -156,7 +156,6 @@
 195.18.27.57 - ansarqz
 95.165.71.165 - .sedoy
 212.22.93.100 - allucardd
-185.135.81.76 - allucardd
 188.235.162.209 - mr.sadovskov
 95.31.205.95 - mr.sadovskov
 193.203.238.33 - barralynx
