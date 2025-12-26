@@ -68,3 +68,4 @@
 195.18.27.35 - globzivova
 91.98.181.123 - holborn.
 49.12.175.21 - holborn.
+192.168.3.49 - rigadir
