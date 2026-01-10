@@ -228,7 +228,7 @@
 5.140.213.7 - .ganzha
 147.135.31.149 - yamaha_605
 195.18.27.119 - stanley_winston
-109.194.42.69 - stanley_winston
+88.204.66.157 - stanley_winston
 109.126.23.211 - delovoy25
 109.248.4.50 - dmitrii_kasyanov
 185.189.255.184 - pogranichnik_max
