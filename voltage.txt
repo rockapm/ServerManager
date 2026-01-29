@@ -118,7 +118,7 @@
 109.248.4.34 - baligulia
 109.248.4.19 - baligulia
 109.248.4.23 - baligulia
-46.174.54.221 - kazantipos
+37.18.21.152 - kazantipos
 185.207.214.8 - kazantipos
 88.151.117.173 - kazantipos
 185.207.214.115 - pr_zrak
