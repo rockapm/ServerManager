@@ -12,8 +12,7 @@
 95.165.71.165 - .sedoy
 37.18.21.213 - vorin_pavel
 77.34.147.164 - vorin_pavel
-193.164.16.85 - nikolay1010
-91.206.15.69 - nikolay1010
+185.189.255.206 - nikolay1010
 77.51.184.203 - vovan_black
 45.15.158.125 - the__glebati
 194.147.90.80 - the__glebati
