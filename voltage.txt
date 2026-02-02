@@ -413,7 +413,7 @@
 80.242.59.185 - wejiect
 217.29.29.170 - wejiect
 192.168.1.9 - wejiect
-92.38.222.31 - sashaluger
+37.230.210.26 - sashaluger
 178.63.51.115 - vlad_zhurylo
 192.162.232.16 - vlad_zhurylo
 192.162.238.179 - vlad_zhurylo
