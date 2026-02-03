@@ -36,6 +36,8 @@
 189.127.164.243 - adm01founder
 189.127.164.246 - adm01founder
 189.127.165.9 - adm01founder
+189.127.165.213 - adm01founder
+189.127.164.210 - adm01founder
 64.20.41.84 - toasty9001
 139.99.144.28 - toasty9001
 92.38.222.124 - loukroz
