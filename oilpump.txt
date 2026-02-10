@@ -113,7 +113,7 @@
 189.127.164.246 - adm01founder
 189.127.165.213 - adm01founder
 189.127.164.210 - adm01founder
-80.242.59.128 - alexzaplava
+212.22.85.242 - alexzaplava
 195.18.27.249 - drugoy
 185.207.214.101 - drugoy
 5.9.94.115 - dm.korch
