@@ -188,7 +188,7 @@
 109.248.4.120 - santa_admin
 185.207.214.41 - smok_evgeniy
 109.248.4.102 - sol4max
-109.248.4.12 - ranjol
+45.131.186.79 - ranjol
 212.22.85.236 - melnikdayz
 37.230.228.172 - admin_dz
 146.103.116.226 - admin_dz
