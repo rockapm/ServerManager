@@ -84,7 +84,7 @@
 95.156.230.28 - c4r1zp
 185.207.214.193 - _karatel_one
 94.26.228.74 - mrgreenfox_9412
-212.22.93.176 - game_master_4
+212.22.93.9 - game_master_4
 92.38.222.30 - nastena_admin
 45.147.121.163 - nastena_admin
 188.40.50.44 - tommypockets
