@@ -314,7 +314,7 @@
 104.243.41.181 - weyland.exe
 172.93.104.79 - weyland.exe
 94.130.88.44 - bl4ck_g4m3r
-86.147.81.102 - teammonarch
+86.156.45.193 - teammonarch
 185.207.214.102 - _smola_
 212.22.93.108 - _smola_
 109.248.4.44 - _smola_
