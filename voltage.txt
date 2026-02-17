@@ -107,9 +107,7 @@
 103.152.197.103 - mitcho101
 168.100.160.58 - mitcho101
 203.190.194.158 - mitcho101
-185.180.2.91 - lamacore
-82.208.17.115 - lamacore
-82.208.17.104 - lamacore
+93.99.7.119 - lamacore
 51.38.84.107 - rapiozooooooo
 193.203.238.33 - barralynx
 185.189.255.113 - demmonik
