@@ -311,6 +311,8 @@
 92.38.222.11 - shinra_idk
 185.207.214.126 - shinra_idk
 46.172.125.74 - shinra_idk
+109.248.4.18 - shinra_idk old
+195.18.27.210 - shinra_idk new
 90.151.84.21 - plotnik0v
 37.230.210.171 - plotnik0v
 104.243.41.181 - weyland.exe
