@@ -259,7 +259,7 @@
 213.133.110.158 - skorio6
 37.156.35.16 - skorio6
 212.192.50.166 - topotun
-37.230.210.207 - Temnyu
+212.22.93.25 - temnyu
 212.22.93.23 - greatalpha
 176.114.85.146 - greatalpha
 85.175.96.203 - xllazonllx 
