@@ -147,6 +147,7 @@
 194.147.90.170 - c0ccyx
 80.242.59.107 - oberest
 38.225.91.40 - chawitaa
+38.225.91.4 - chawitaa
 178.63.51.115 - vlad_zhurylo
 192.162.232.16 - vlad_zhurylo
 192.162.238.179 - vlad_zhurylo
@@ -161,7 +162,7 @@
 103.174.190.14 - upsidedown1911
 15.235.42.184 - twistedsteel1694
 91.192.93.70 - arman2148
-212.22.93.84 - lbonaventura
+37.18.21.226 - lbonaventura
 103.193.80.48 - rekdum
 185.207.214.149 - xygin
 185.207.214.128 - .t1waz
