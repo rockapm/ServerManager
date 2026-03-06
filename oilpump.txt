@@ -45,12 +45,13 @@
 185.189.255.15 - mxskent
 185.189.255.194 - ragnar_4444
 104.243.41.181 - weyland.exe
-138.201.37.84 - dusty29
-91.134.4.54 - samprox01/dusty29
-37.156.35.8 - dusty29
-37.156.35.3 - dusty29
-193.25.252.44 - samprox01/dusty29
-193.25.252.48 - samprox01/dusty29
+138.201.37.84 - dusty29 old
+91.134.4.54 - samprox01/dusty29 old
+37.156.35.8 - dusty29 old
+37.156.35.3 - dusty29 old
+193.25.252.44 - samprox01/dusty29 old
+193.25.252.48 - samprox01/dusty29 old
+37.156.35.27 - babbaayaggaa
 49.12.175.21 - deano23
 198.244.177.66 - deano23
 138.201.16.137 - fisher1305
