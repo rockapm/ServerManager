@@ -383,7 +383,7 @@
 189.127.165.213 - adm0376
 189.127.164.18 - adm0376
 189.127.164.210 - adm0376
-212.22.93.115 - _game_channel_guffi_
+37.18.21.221 - _game_channel_guffi_
 185.207.214.19 - .nightmare_dayz
 46.22.56.246 - .nightmare_dayz
 91.218.9.85 - .nightmare_dayz
