@@ -79,7 +79,7 @@
 92.38.222.29 - madara_0765
 109.248.4.11 - izgoi5184
 185.207.214.169 - grisha_black
-5.9.209.22 - samprox01
+
 195.18.27.78 - criminallion
 185.189.255.214 - criminallion
 185.207.214.218 - zfbubusik
@@ -196,10 +196,11 @@
 84.50.203.224 - nomad135
 45.151.28.53 - poslanikdark
 185.189.255.227 - morganpinkman
-91.134.4.54 - samprox01/dusty29
-37.156.35.8 - dusty29
-37.156.35.3 - dusty29
-49.12.145.69 - dusty29
+91.134.4.54 - samprox01/dusty29 old
+37.156.35.8 - dusty29 old 
+37.156.35.3 - dusty29 old
+49.12.145.69 - dusty29 old
+37.156.35.27 - babbaayaggaa
 185.207.214.193 - _karatel_one
 212.237.216.13 - puve3228
 103.219.39.68 - jiaou007_40754
