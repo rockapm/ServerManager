@@ -45,7 +45,7 @@
 37.18.21.152 - kazantipos
 185.207.214.8 - kazantipos
 88.151.117.173 - kazantipos
-46.174.54.50 - kazantipos
+45.136.205.54 - kazantipos
 95.165.71.165 - .sedoy
 92.38.222.29 - lexa_fin
 92.38.222.35 - lexa_fin
