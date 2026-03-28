@@ -179,6 +179,7 @@
 212.22.93.9 - game_master_4
 88.218.156.51 - dayzetero93
 37.156.35.87  - dayzetero93
+5.196.92.130  - dayzetero93
 181.85.93.163 - chawitaa
 185.207.214.162 - kasper52_
 109.248.4.38 - sinoptik_1
