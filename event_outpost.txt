@@ -218,8 +218,8 @@
 193.25.252.141 - egotripe
 185.207.214.246 - serega_play_ttv
 185.189.255.94 - serega_play_ttv
-193.25.252.28 - mrloopsx
-141.94.98.42 - mrloopsx test
+193.25.252.28 - mrloops_x
+37.156.35.6 - mrloops_x test
 176.213.150.22 - warlockrinat
 95.143.190.210 - molchan
 23.88.20.140 - susu_sue
