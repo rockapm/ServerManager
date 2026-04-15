@@ -84,3 +84,5 @@
 185.189.255.152 - overside3103
 46.174.50.64 - overside3103
 74.63.203.74 - noxturn
+193.25.252.28 - mrloops_x
+37.156.35.6 - mrloops_x test
