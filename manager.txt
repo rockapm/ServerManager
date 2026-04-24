@@ -34,7 +34,7 @@
 185.207.214.50:2302  // NewStory - Kapa
 89.208.227.51 // HellGateRP - hellfaddyhgw
 109.248.4.59  // GROM_PVP - _extrimal
-185.189.255.42 - kapueroplay
+185x189x255x42 - kapueroplay ???
 212.192.50.172 - hellfaddyhgw
 212.192.50.185 - hellfaddyhgw
 185.207.214.236 - hellfaddyhgw
