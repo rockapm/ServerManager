@@ -313,11 +313,6 @@
 141.95.35.163 - freddie_mgz
 46.4.112.80 - freddie_mgz
 88.99.164.150 - endergoth_tata
-46.174.50.243 - lieutenant_
-37.230.228.30 - lieutenant_
-138.201.198.153 - lieutenant_
-188.127.226.43 - lieutenant_
-188.127.244.207 - lieutenant_
 195.18.27.165 - lieutenant_
 79.137.98.87 - khaotic.lifez
 62.183.115.59 - rishat
