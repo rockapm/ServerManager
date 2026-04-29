@@ -100,7 +100,7 @@
 185.207.214.41 - smok_evgeniy
 185.189.255.40 - medvejonok
 185.207.214.171 - medvejonok
-136.243.106.113 - spartansfight
+185.83.152.169 - spartansfight
 185.207.214.68 - trkka
 185.189.255.200 - kama4330
 195.18.27.196 - kama4330
