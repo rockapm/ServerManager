@@ -119,8 +119,7 @@
 185.207.214.103 - el.bart.o
 64.20.41.84 - toasty9001
 51.161.199.33 - toasty9001
-185.189.255.152 - overside3103
-46.174.50.64 - overside3103
+185.189.255.206 - overside3103
 195.18.27.198 - globzivova
 195.18.27.35 - globzivova
 195.18.27.98 - globzivova
