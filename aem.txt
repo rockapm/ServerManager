@@ -45,8 +45,8 @@
 51.38.122.211 - volodymyr2048
 109.248.4.80 - nemec0152
 193.135.10.94 - Traik82
-87.76.4.217 - basota
-5.252.102.158 - basota
+109.248.4.63 - basota
+95.104.193.239 - basota
 109.248.4.239 - vargfallenalliance
 51.195.61.62 - altuwaijri_81
 57.129.145.181 - altuwaijri_81
