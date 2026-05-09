@@ -199,8 +199,9 @@
 198.244.176.92 - sweet_phycho
 80.79.123.218 - adsky_
 109.248.4.121 - FreddyCruger
-92.38.222.29 - lexa_fin
-92.38.222.35 - lexa_fin
+92.38.222.29 - lexa_fin old
+92.38.222.35 - lexa_fin test
+109.248.4.11 - lexa_fin new
 107.11.252.26 - fya_
 40.160.20.21 - fya_
 195.18.27.105 - dethar11
