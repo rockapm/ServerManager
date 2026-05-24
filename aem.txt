@@ -352,6 +352,7 @@
 103.91.211.51 - ame9406
 5.9.78.252 - 11leader11
 212.22.93.34 - frank_eros_pve
+212.22.93.42 - frank_eros_pve
 93.99.7.63 - wenom18
 80.242.59.143 - .t1waz
 51.195.4.141 - goodtz
@@ -374,4 +375,3 @@
 92.255.174.44 - goblin_revenant
 147.45.142.60 - goblin_revenant
 212.22.93.176 - cheekibreeki10
-204.13.234.70 - _iam
