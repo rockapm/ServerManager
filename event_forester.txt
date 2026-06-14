@@ -192,7 +192,7 @@
 86.227.101.192 - miss_pips
 82.64.247.227 - miss_pips
 109.248.4.18 - toxic_33russ
-26.232.13.237 - enotenotskiyarthur
+193.34.77.44 - enotenotskiyarthur
 45.124.213.26 - hunk0628
 45.124.213.23 - hunk0628
 74.63.203.74 - hunk0628
