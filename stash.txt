@@ -70,7 +70,7 @@
 45.124.213.33 - to_ogi86
 172.111.51.137 - dirkalot
 178.63.51.115 - vlad_zhurylo
-192.162.232.16 - vlad_zhurylo
+193.33.189.160 - vlad_zhurylo
 192.162.238.179 - vlad_zhurylo
 185.189.255.209  - alekszaek
 185.207.214.205  - alekszaek
