@@ -139,7 +139,8 @@
 103.193.80.64 - rand0mjester
 91.192.62.134 - the_boatswain
 31.134.184.99 - types1
-91.206.15.119 - gamingenot
+91.206.15.119 - gamingenot old
+176.114.86.183 - gamingenot
 185.207.214.162 - rigadir
 81.84.150.20 - krypt1988
 84.200.135.54 - mr_3rror
