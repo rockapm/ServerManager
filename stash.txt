@@ -226,7 +226,8 @@
 204.13.239.94 - thottts
 185.189.255.132 - ju4ke
 185.189.255.163 - ju4ke
-91.206.15.119 - gamingenot
+91.206.15.119 - gamingenot old
+176.114.86.183 - gamingenot
 92.38.222.24 - turist_gde
 92.38.222.26 - turist_gde
 91.122.15.163 - dena7130
