@@ -227,8 +227,7 @@
 172.111.51.138 - nv991
 46.174.49.99 - mevych322
 185.207.214.211 - diktator.
-168.119.79.178 - xmako87x
-168.119.79.144 - xmako87x
+64.31.29.242 - xmako87x
 109.248.4.77 - exceltwofive
 109.248.4.240 - madeinseberia
 195.18.27.77 - zhurnalist
