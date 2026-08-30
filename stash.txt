@@ -148,7 +148,7 @@
 185.189.255.60 - teleshev_
 109.248.4.131 - fredi106
 185.189.255.44 - evgeny.maloy
-84.200.16.70 - odessavictor
+141.95.34.154 - odessavictor
 80.242.59.102 - fizzordgame
 85.172.101.203 - freddycruge1
 109.248.4.88 - freddycruge1
