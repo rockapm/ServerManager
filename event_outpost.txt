@@ -25,8 +25,7 @@
 195.18.27.180 - bartholomewlaw
 185.207.214.242 - bartholomewlaw
 80.242.59.98 - bartholomewlaw
-95.182.102.183 - .fordik
-89.22.175.13 - .fordik
+109.248.4.26 - .fordik
 185.189.255.15 - mxskent
 109.195.227.214 - mxskent
 195.60.166.234 - joby_.
