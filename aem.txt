@@ -73,7 +73,7 @@
 143.20.142.206 - upsidedown1911
 109.248.4.102 - sol4max
 185.135.81.76 - .t1waz
-92.38.222.16 - Whitesportik
+109.248.4.41 - whitesportik
 183.88.218.20 - chisfroome
 103.234.237.31 - chisfroome
 92.38.222.22 - kratos1323
@@ -251,7 +251,7 @@
 109.248.4.50 - dmitrii_kasyanov
 185.189.255.184 - pogranichnik_max
 195.18.27.228 - pogranichnik_max
-92.38.222.39 - pogranichnik_max
+109.248.4.189 - pogranichnik_max
 109.248.4.9 - pogranichnik_max
 109.248.4.12 - pogranichnik_max
 194.38.2.144 - pogranichnik_max
